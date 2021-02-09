@@ -1,2 +1,2 @@
-# Badass-Book-Club
+# Badass Book Club
 Place for the website...
